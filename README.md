@@ -13,7 +13,7 @@ int main() {
 }
 ```
 
-## ♙ TROPHIES I LEARNED
+## ♙ TROPHIES I EARNED
 
 <div align="center">
 
