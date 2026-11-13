@@ -21,7 +21,7 @@ int main() {
 
 <br/><br/>
 
-<img src="assets/profile.jpg" width="260" alt="ShotEddie"/>
+<img src="profile.jpg" width="260" alt="ShotEddie"/>
 
 ```
  ╔═══════════════════════════════════════════╗
