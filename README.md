@@ -1,9 +1,6 @@
 ## ♛ TSOMETHING THAT DESCRIBES ME
 
 ```cpp
-// Queen's Gambit
-// 1.d4 d5 2.c4
-
 #include <iostream>
 int main() {
     std::cout << "d4 d5 c4\n";
