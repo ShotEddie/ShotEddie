@@ -1,3 +1,4 @@
+```cpp
 // Queen's Gambit
 // 1.d4 d5 2.c4
 
@@ -8,3 +9,4 @@ int main() {
     std::cout << "That I mattered.\n";
     return 0;
 }
+```
