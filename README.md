@@ -1,19 +1,4 @@
-<br/><br/>
-
-<img src="profile.jpg" width="260" alt="ShotEddie"/>
-
-```
- ╔═══════════════════════════════════════════╗
- ║   NAME:     TheEdward  "ShotEddie"        ║
- ║   CITY:     Night City                    ║
- ║   CRIME:    8,000 hours of Fortnite       ║
- ║   REWARD:   $5,000                        ║
- ╚═══════════════════════════════════════════╝
-```
-
-</div>
-
-## 🤠 The Outlaw
+## ♛ TSOMETHING THAT DESCRIBES ME
 
 ```cpp
 // Queen's Gambit
@@ -28,7 +13,7 @@ int main() {
 }
 ```
 
-## 🎒 Saddlebag
+## ♟ TROPHIES I LEARNED
 
 <div align="center">
 
