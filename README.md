@@ -1,19 +1,3 @@
-<!-- Upload your profile image to the same repo as: assets/profile.jpg -->
-
-```cpp
-// Queen's Gambit
-// 1.d4 d5 2.c4
-
-#include <iostream>
-int main() {
-    std::cout << "d4 d5 c4\n";
-    std::cout << "I just want the world to know I was here\n";
-    std::cout << "That I mattered.\n";
-    return 0;
-}
-```
-
-
 <br/><br/>
 
 <img src="profile.jpg" width="260" alt="ShotEddie"/>
@@ -31,9 +15,18 @@ int main() {
 
 ## 🤠 The Outlaw
 
-- 🔫 **Job:** Outlaw & Mercenary for hire
-- 🏙️ **Hideout:** Night City
-- 🪦 **Motto:** *I was here. I mattered.*
+```cpp
+// Queen's Gambit
+// 1.d4 d5 2.c4
+
+#include <iostream>
+int main() {
+    std::cout << "d4 d5 c4\n";
+    std::cout << "I just want the world to know I was here\n";
+    std::cout << "That I mattered.\n";
+    return 0;
+}
+```
 
 ## 🎒 Saddlebag
 
