@@ -33,3 +33,9 @@ int main() {
 [![YouTube](https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=c9a227)](https://youtube.com/@shoteddie)
 
 </div>
+
+<div align="center">
+
+<img src="Cyberpunk2077.jpg" alt="Cyberpunk 2077" width="100%" />
+
+</div>
