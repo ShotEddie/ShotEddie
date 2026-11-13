@@ -36,6 +36,6 @@ int main() {
 
 <div align="center">
 
-<img src="Cyberpunk.png" alt="Cyberpunk 2077" width="100%" />
+<img src="Cyberpunk2077.png" alt="Cyberpunk 2077" width="100%" />
 
 </div>
