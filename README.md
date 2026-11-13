@@ -49,6 +49,4 @@ int main() {
 [![Instagram](https://img.shields.io/badge/Instagram-8b1a1a?style=for-the-badge&logo=instagram&logoColor=f5e6c8)](https://instagram.com/shoteddie)
 [![YouTube](https://img.shields.io/badge/YouTube-8b1a1a?style=for-the-badge&logo=youtube&logoColor=f5e6c8)](https://youtube.com/@shoteddie)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c9a227,55:8b1a1a,100:0d0000&height=90&section=footer" width="100%"/>
-
 </div>
