@@ -32,15 +32,15 @@ int main() {
 
 <div align="center">
 
-![C++](https://img.shields.io/badge/C++-0d0000?style=for-the-badge&logo=cplusplus&logoColor=c9a227)
-![Python](https://img.shields.io/badge/Python-0d0000?style=for-the-badge&logo=python&logoColor=c9a227)
-![C#](https://img.shields.io/badge/C%23-0d0000?style=for-the-badge&logo=csharp&logoColor=c9a227)
-![Java](https://img.shields.io/badge/Java-0d0000?style=for-the-badge&logo=openjdk&logoColor=c9a227)
-![PowerShell](https://img.shields.io/badge/PowerShell-8b1a1a?style=for-the-badge&logo=powershell&logoColor=f5e6c8)
-![Batch](https://img.shields.io/badge/Batch-8b1a1a?style=for-the-badge&logo=windowsterminal&logoColor=f5e6c8)
-![Lua](https://img.shields.io/badge/Lua-8b1a1a?style=for-the-badge&logo=lua&logoColor=f5e6c8)
-![HTML](https://img.shields.io/badge/HTML-8b1a1a?style=for-the-badge&logo=html5&logoColor=f5e6c8)
-![JSON](https://img.shields.io/badge/JSON-8b1a1a?style=for-the-badge&logo=json&logoColor=f5e6c8)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=c9a227)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=c9a227)
+![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=c9a227)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=c9a227)
+![PowerShell](https://img.shields.io/badge/PowerShell-000000?style=for-the-badge&logo=powershell&logoColor=c9a227)
+![Batch](https://img.shields.io/badge/Batch-000000?style=for-the-badge&logo=windowsterminal&logoColor=c9a227)
+![Lua](https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=c9a227)
+![HTML](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=c9a227)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=c9a227)
 
 
 
